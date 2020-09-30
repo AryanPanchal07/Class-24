@@ -22,7 +22,7 @@ function setup(){
     pig2 = new Pig(810, 220);
     log2 = new Log(810,180,20,300,PI/2);
     log3 = new Log(760, 120, 20, 150, PI/7);
-    log4 = new Log(870, 120, 20, 150, -PI/7);
+    log4 = new Log(900, 120, 20, 150, -PI/7);
     
    
     log1 = new Log(800,250,20,300,PI/2);
